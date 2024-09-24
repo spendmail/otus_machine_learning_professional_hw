@@ -11,3 +11,12 @@ jupyter notebook Classification_Models_Comparison.ipynb
 jupyter notebook Regression_Models_Comparison.ipynb
 ```
 
+## [Домашняя работа №2](./hw_02)
+
+```
+git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
+cd otus_machine_learning_professional_hw/hw_02/
+
+jupyter notebook Clusterization.ipynb
+
+```
