@@ -20,3 +20,13 @@ cd otus_machine_learning_professional_hw/hw_02/
 jupyter notebook Clusterization.ipynb
 
 ```
+
+## [Домашняя работа №3](./hw_03)
+
+```
+git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
+cd otus_machine_learning_professional_hw/hw_03/
+
+jupyter notebook AnomalyDetection.ipynb
+
+```
