@@ -40,3 +40,13 @@ cd otus_machine_learning_professional_hw/hw_04/
 jupyter notebook Disease_spreading_simulation.ipynb
 
 ```
+
+## [Домашняя работа №5](./hw_05)
+
+```
+git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
+cd otus_machine_learning_professional_hw/hw_05/
+
+jupyter notebook function_approximation.ipynb
+
+```
