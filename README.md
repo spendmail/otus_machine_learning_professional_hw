@@ -51,7 +51,7 @@ jupyter notebook function_approximation.ipynb
 
 ```
 
-## [Домашняя работа №5](./hw_06)
+## [Домашняя работа №6](./hw_06)
 
 ```
 git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
@@ -61,7 +61,7 @@ jupyter notebook clouds_classification.ipynb
 
 ```
 
-## [Домашняя работа №5](./hw_07)
+## [Домашняя работа №7](./hw_07)
 
 ```
 git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
@@ -71,7 +71,7 @@ jupyter notebook preprocessing_and_tokenization.ipynb
 
 ```
 
-## [Домашняя работа №5](./hw_08)
+## [Домашняя работа №8](./hw_08)
 
 ```
 git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
