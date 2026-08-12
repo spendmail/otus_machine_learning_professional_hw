@@ -50,3 +50,33 @@ cd otus_machine_learning_professional_hw/hw_05/
 jupyter notebook function_approximation.ipynb
 
 ```
+
+## [Домашняя работа №5](./hw_06)
+
+```
+git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
+cd otus_machine_learning_professional_hw/hw_06/
+
+jupyter notebook clouds_classification.ipynb
+
+```
+
+## [Домашняя работа №5](./hw_07)
+
+```
+git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
+cd otus_machine_learning_professional_hw/hw_07/
+
+jupyter notebook preprocessing_and_tokenization.ipynb
+
+```
+
+## [Домашняя работа №5](./hw_08)
+
+```
+git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
+cd otus_machine_learning_professional_hw/hw_08/
+
+jupyter notebook transformers.ipynb
+
+```
