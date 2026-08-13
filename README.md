@@ -80,3 +80,13 @@ cd otus_machine_learning_professional_hw/hw_08/
 jupyter notebook transformers.ipynb
 
 ```
+
+## [Домашняя работа №9](./hw_09)
+
+```
+git clone git@github.com:spendmail/otus_machine_learning_professional_hw.git
+cd otus_machine_learning_professional_hw/hw_09/
+
+jupyter notebook metro_interstate_traffic_volume.ipynb
+
+```
